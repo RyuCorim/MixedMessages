@@ -9,4 +9,5 @@ header h1, h5{
     line-height: 50px;
     background-color: rgba(24, 171, 159, 0.48);
     border-radius: 7%;
+    text-shadow: 1px 1px lightblue;
 }
