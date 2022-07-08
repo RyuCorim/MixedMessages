@@ -1,0 +1,12 @@
+html, body {
+    overflow-x: hidden;
+    width: 1315px;
+}
+
+header h1, h5{
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    background-color: rgba(24, 171, 159, 0.48);
+    border-radius: 7%;
+}
