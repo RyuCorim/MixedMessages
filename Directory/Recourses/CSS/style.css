@@ -1,13 +1,19 @@
 html, body {
     overflow-x: hidden;
     width: 1315px;
+    background-color: rgba(39, 245, 232, 0.5);
 }
 
-header h1, h5{
+.head{
     text-align: center;
     height: 50px;
-    line-height: 50px;
-    background-color: rgba(24, 171, 159, 0.48);
-    border-radius: 7%;
-    text-shadow: 1px 1px lightblue;
+    border-radius: 5%;
+    border: 1px black solid;
+    margin-top: 125px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 300px;
+    background-color: white;
+    color: cadetblue;
+    text-shadow: 2px 5px 5px lightblue;
 }
